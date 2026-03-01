@@ -42,7 +42,7 @@ User alex99 scored 87.5 points
 
 1. Clone the repository:
  ``bash
- git clone https://github.com/YOUR-USERNAME/json-assignment.git
+ git clone https://github.com/J-harshavardhan/json-assignment.git
 
 Navigate to the folder:
 
